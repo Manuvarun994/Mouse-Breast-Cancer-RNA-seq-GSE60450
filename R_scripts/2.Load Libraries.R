@@ -1,0 +1,8 @@
+library(DESeq2)
+library(EnhancedVolcano)
+library(pheatmap)
+library(RColorBrewer)
+library(clusterProfiler)
+library(org.Mm.eg.db)
+library(AnnotationDbi)
+library(enrichplot)

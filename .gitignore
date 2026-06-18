@@ -1,0 +1,32 @@
+# Raw
+ sequencing data
+raw_data/
+
+# Trimmed reads
+trimmed/
+
+# Alignment files
+alignment/
+
+# Genome indexes and reference
+genome/
+
+# MultiQC intermediate files
+multiqc_data/
+multiqc_data_1/
+
+# Large installers
+*.sh
+
+# BAM/SAM files
+*.bam
+*.sam
+*.bai
+
+# Swap files
+*.swp
+
+
+
+
+
