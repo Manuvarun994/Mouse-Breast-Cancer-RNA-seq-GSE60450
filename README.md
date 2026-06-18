@@ -45,6 +45,51 @@ results/
 figures/
 ```
 
+# Visualizations
+
+## PCA Plot
+
+![PCA Plot](figures/PCA_PLOT.png)
+
+## Sample Heatmap
+
+![Heatmap](figures/SAMPLE_HEATMAP.png)
+
+## Volcano Plot
+
+![Volcano Plot](figures/VOLCANO%20PLOT.png)
+
+## Top 50 Expressed Genes
+
+![Top Genes](figures/TOP_50_EXPRESSED_GENES.png)
+
+## GO Enrichment Dot Plot
+
+![GO Dot Plot](figures/DOT_PLOT.png)
+
+## GO Enrichment Bar Plot
+
+![GO Bar Plot](figures/BAR_PLOT.png)
+
+## Enrichment Network Plot
+
+![Enrichment Plot](figures/ENRICHPLOT.png)
+
+## KEGG Dot Plot
+
+![KEGG Dot Plot](figures/KEGG_DOT_PLOT.png)
+
+## KEGG Bar Plot
+
+![KEGG Bar Plot](figures/KEGG_BAR_PLOT.png)
+
+## KEGG Pathway Map
+
+![KEGG Pathway](figures/KEGG_MAP_PLOT.png)
+
+## Pathview Visualization
+
+![Pathview](figures/mmu04010.pathview.png)
 ## Key Outputs
 
 - Differentially expressed genes
